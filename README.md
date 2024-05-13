@@ -1,7 +1,7 @@
 # Krypto IPTV M3U Reader + File Saver
 
 ## Overview
-The Krypto IPTV M3U Reader + File Saver is a Python application designed to facilitate the management of M3U playlist files commonly used in Internet Protocol Television (IPTV) services. This application offers functionalities to open, process, and manipulate M3U files, extracting crucial channel information such as name, URL, country, and group title. With a user-friendly interface built using tkinter, users can effortlessly navigate through channels, filter content based on various criteria, sort channels alphabetically, and save processed channel information to various file formats including JSON, XML, CSV, and Python.
+The Krypto M3UReader + File Saver is a Python application designed to facilitate the management of M3U playlist files commonly used in Internet Protocol Television (IPTV) services. This application offers functionalities to open, process, and manipulate M3U files, extracting crucial channel information such as name, URL, country, and group title. With a user-friendly interface built using tkinter, users can effortlessly navigate through channels, filter content based on various criteria, sort channels alphabetically, and save processed channel information to various file formats including JSON, XML, CSV, and Python.
 
 ## Features
 - **File Processing:** Open one or multiple M3U files to extract channel information.
@@ -16,7 +16,7 @@ The Krypto IPTV M3U Reader + File Saver is a Python application designed to faci
 3. Navigate to the project directory in your terminal.
 4. Launch the application using the command:
     ```
-    python krypto_m3u_reader.py
+    python KryptoM3UHelper.py
     ```
 
 
